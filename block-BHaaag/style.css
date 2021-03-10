@@ -1,0 +1,39 @@
+h1,
+h3 {
+    color: white;
+}
+
+h2 {
+    color: green;
+}
+
+body {
+    background-color: #22396a;
+}
+
+p {
+    color: white;
+    line-height: 1.6;
+    font-family: "Trebuchet Ms", Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li {
+    color: white;
+}
+
+html {
+    width: 100%;
+    align-content: center;
+}
+
+address {
+    color: red;
+}
+
+dt {
+    color: white;
+}
+
+#unique {
+    color: white;
+}
