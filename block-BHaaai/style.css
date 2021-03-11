@@ -1,0 +1,67 @@
+body {
+    position: relative;
+    top: 220%;
+    padding-top: 0.5px;
+    padding-bottom: 150px;
+    align-content: center;
+    letter-spacing: 1px;
+    width: 100%;
+    align-self: auto;
+    background-color: #22396a;
+}
+
+html {
+    width: 100%;
+    align-content: center;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    color: white;
+}
+
+p {
+    color: white;
+    line-height: 1.6;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.circle {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    position: relative;
+    top: 20px;
+}
+
+.unique {
+    color: white;
+    text-align: center;
+}
+
+.addr {
+    color: red;
+    text-align: center;
+    position: relative;
+    top: 10px;
+}
+
+h2 {
+    color: #31ba66;
+}
+
+h3 {
+    color: white;
+}
+
+dt {
+    color: white;
+    line-height: 1.6;
+}
+
+.mydiv {
+    background-color: #11244d;
+    border: 0px;
+    block-size: 50px;
+}
